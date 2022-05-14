@@ -9,4 +9,4 @@
 * F - доля золота в сырье/концентрате до флотации/очистки;
 * T - доля золота в отвальных хвостах после флотации/очистки.
 # Используемые библиотеки
-*pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *LighGBM*
+*pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *LightGBM*
