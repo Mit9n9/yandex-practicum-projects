@@ -9,3 +9,5 @@
 | Выбор локации для скважины (choosing_region)  | Необходимо выбрать подходящий для разработки скважин регион и оценить риски убытков | *pandas*, *matplotlib*, *seaborn*, *sklearn*|
 | Рекомендация тарифов(tariff_predict_research)  | Подбор подходящего для пользователя тарифа | *pandas*,*sklearn*, *xgboost*|
 | Анализ продаж игр(game_sales_research) | Анализ продаж видеоигр | *pandas*, *matplotlib*, *seaborn*, *numpy*, *scipy*|
+| Исследование восстановления золота(gold_recovery_research) | Необходимо построить модель, которая бы предсказывала коэффициент восстановления золота | *pandas*, *matplotlib*, *seaborn*, *numpy*, *sklearn*|
+| Защита данных пользователей(data_protection) | Разработка алгоритма преобразования данных, который не повлиял бы на качество линейной регрессии | *pandas*, *numpy*, *sklearn*|
